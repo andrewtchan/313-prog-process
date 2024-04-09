@@ -1,2 +1,3 @@
 # 313-prog-process
-an assignment for CSC 313 Teaching Computing
+created using the OpenLayers API as an exercise in examining the "programming process". 
+
